@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### My name is Cassandra and here's a little bit about me ⬇️
+## Hi, I'm Cassandra! 👋
 
 🎓 4B Mechatronics Engineering student at UWaterloo  
 ⚡ Currently seeking 2026 new grad roles in the Software/Robotics industry  
