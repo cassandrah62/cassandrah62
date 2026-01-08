@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is Cassandra and here's a little bit about me ⬇️
+### My name is Cassandra and here's a little bit about me ⬇️
 
-🎓 4B Mechatronics Engineering student at UWaterloo
-⚡ Currently seeking 2026 new grad roles in the Software/Robotics industry
-✅ Developed a wide variety of software skills through 6 previous internships
-🔭 Interested in backend development and robotics
-💬 Enjoy working on meaningful projects while continuously expanding my skillset!
+🎓 4B Mechatronics Engineering student at UWaterloo ...
+⚡ Currently seeking 2026 new grad roles in the Software/Robotics industry ...
+✅ Developed a wide variety of software skills through 6 previous internships ...
+🔭 Interested in backend development and robotics ...
+💬 Enjoy working on meaningful projects while continuously expanding my skillset! ...
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cassandrahopkins/)!
 
